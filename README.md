@@ -2,9 +2,7 @@
 
 Ein Projekt zur Erklärung des binären und decimalen Zahlensystems. 
 
-<img src="IMG/b2d_1.jpg" width = "49%" /> 
-<img src="IMG/b2d_2.jpg" width = "49%" />
-<img src="IMG/b2d_3.jpg" width = "49%" />
+<img src="IMG/b2d_1.JPG" width = "49%" /> <img src="IMG/b2d_2.JPG" width = "49%" /><img src="IMG/b2d_3.JPG" width = "49%" /><img src="IMG/b2d_Leiterplatte.JPG" width = "49%" />
 
 
 
