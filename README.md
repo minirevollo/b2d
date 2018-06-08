@@ -2,6 +2,10 @@
 
 Ein Projekt zur Erklärung des binären und decimalen Zahlensystems. 
 
+<img src="IMG/b2d_1.jpg" width = "49%" /> 
+<img src="IMG/b2d_2.jpg" width = "49%" />
+<img src="IMG/b2d_3.jpg" width = "49%" />
+
 
 
 # Produktion #
